@@ -18,7 +18,7 @@ object Form1: TForm1
     Top = 80
     Width = 75
     Height = 25
-    Caption = 'Button1'
+    Caption = 'save'
     TabOrder = 0
   end
 end
